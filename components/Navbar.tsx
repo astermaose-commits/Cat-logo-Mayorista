@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, ShoppingBag, Menu, X, MapPin, Phone, Instagram, ChevronDown } from 'lucide-react';
+import { Search, ShoppingBag, Menu, X, MapPin, Phone, ChevronDown } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FilterState } from '../types';
 import { PRODUCTS } from '../constants'; // Required for Live Search

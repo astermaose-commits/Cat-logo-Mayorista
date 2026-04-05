@@ -1,5 +1,5 @@
 import React from 'react';
-import { PackageCheck, ShieldCheck, Truck, HeadphonesIcon, MapPin, Mail, Phone, Instagram, Facebook } from 'lucide-react';
+import { PackageCheck, ShieldCheck, Truck, HeadphonesIcon, MapPin, Mail, Phone, Facebook } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
